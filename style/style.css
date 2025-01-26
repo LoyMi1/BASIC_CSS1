@@ -1,8 +1,8 @@
 h1 {
+    margin: 0;
     text-align: center;
-    padding: 50px;
-    background-color: rgb(121, 67, 24);
-    
+    padding: 80px;
+    background-color: #794318;
 }
 
 ul {
@@ -35,4 +35,8 @@ a {
 nav {
     background-color: rgb(168, 125, 68);
     padding: 14px ; 
+}
+body {
+    margin: 0;
+    padding: 0;
 }
