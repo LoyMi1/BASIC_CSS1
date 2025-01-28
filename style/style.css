@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(121, 67, 24);
+    
+}
+
+ul {
+    text-align: center;
+    margin: auto;
+    padding: 0; 
+    list-style-type: none; 
+}
+
+ul li {
+   
+    margin: 0 15px; 
+}
+
+a {
+    text-decoration: underline;
+    color: green;
+    padding: 10px; 
+}
+
+.last {
+    text-align: center;
+}
+
+.text {
+    color: rgb(48, 29, 14);
+
+}
+
+nav {
+    background-color: rgb(168, 125, 68);
+    padding: 14px ; 
+}
